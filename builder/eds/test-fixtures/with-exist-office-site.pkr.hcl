@@ -90,8 +90,4 @@ build {
   #   disable = false
   #   note    = "this is a breakpoint"
   # }
-
-  post-processor "manifest" {
-    output = "manifest.json"
-  }
 }
